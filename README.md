@@ -2,8 +2,9 @@ MP3Downloader の使い方
 MP3Downloader は、YouTube の動画を MP3 に変換してダウンロードできるツールです。
 
 最初に！
-https://qiita.com/Tadataka_Takahashi/items/9dcb0cf308db6f5dc31b
-@Tadataka_Takahashiさんの記事を読みFFmegをダウンロードしてから次に進みください。
+https://qiita.com/e0531421/private/63e4b73d5f2d5737f663
+FFmpegがはいっていない方はこちらの記事を最初にお読みになってからお進みください（入れていない場合エラーが出て使えません）
+
 📥 インストールと準備
 1.ダウンロード
 ・mp3Downloader.exe を PC にダウンロードします。
