@@ -13,6 +13,7 @@ FFmpegがはいっていない方はこちらの記事を最初にお読みに�
 1.FFmpeg公式サイト から Windows 版をダウンロード
 2.ffmpeg.exe を mp3Downloader.exe と同じフォルダに配置する
 3.または、環境変数に ffmpeg のパスを追加
+
 📌 使い方
 1.アプリを開く
 ・mp3Downloader.exe をダブルクリックして起動します。
@@ -33,12 +34,14 @@ ffmpeg が見つからない	ffmpeg.exe をダウンロードし、実行ファ�
 RuntimeError: input(): lost sys.stdin	--noconsole を外して .exe を再作成するか、GUI 版を使用
 ダウンロードした MP3 がない	downloads フォルダを確認
 .exe を実行してもすぐ閉じる	コンソール版を使う (--noconsole をつけずに .exe を作成)
+
 📂 保存先
 ダウンロードした MP3 ファイルは、mp3Downloader.exe と同じディレクトリにある downloads フォルダに保存されます。
 
 📜 注意事項
 ・本ソフトは 個人利用の範囲でのみ 使用してください。
 ・著作権のあるコンテンツのダウンロードは 自己責任で行ってください。
+
 ✅ まとめ
 1.mp3Downloader.exe を開く
 2.YouTube の URL を入力
